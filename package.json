@@ -1,0 +1,20 @@
+{
+  "name": "webpack-typic",
+  "version": "1.0.0",
+  "description": "Sheenan TenepreStandard webpack configuration ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "standard",
+    "webpack",
+    "config",
+    "webpack",
+    "config",
+    "webpack",
+    "config"
+  ],
+  "author": "Sheenan Tenepre",
+  "license": "ISC"
+}
